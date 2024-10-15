@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\admin\\desktop\\3d pickup\\thirdpersonsurvior\\intermediate\\build\\win64\\unrealeditor\\inc\\thirdpersonsurvior\\uht\\thirdpersonsurviorcharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\admin\\desktop\\3d pickup\\thirdpersonsurvior\\intermediate\\build\\win64\\x64\\thirdpersonsurvioreditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\admin\\desktop\\3d pickup\\thirdpersonsurvior\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\thirdpersonsurvior\\definitions.thirdpersonsurvior.h",
+            "c:\\users\\admin\\desktop\\3d pickup\\thirdpersonsurvior\\source\\thirdpersonsurvior\\thirdpersonsurviorcharacter.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "d:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "d:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "d:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\admin\\desktop\\3d pickup\\thirdpersonsurvior\\intermediate\\build\\win64\\unrealeditor\\inc\\thirdpersonsurvior\\uht\\thirdpersonsurviorcharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

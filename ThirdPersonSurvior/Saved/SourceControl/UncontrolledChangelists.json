@@ -1,0 +1,44 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Admin/Desktop/3D Pickup/ThirdPersonSurvior/Content/Blueprints/WBP_BatteryHUD.uasset",
+				"C:/Users/Admin/Desktop/3D Pickup/ThirdPersonSurvior/Content/Blueprints/BP_TrapPickup.uasset",
+				"C:/Users/Admin/Desktop/3D Pickup/ThirdPersonSurvior/Content/Maps/GameMap.umap",
+				"C:/Users/Admin/Desktop/3D Pickup/ThirdPersonSurvior/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Admin/Desktop/3D Pickup/ThirdPersonSurvior/Content/Maps/_GENERATED/Admin/Box_2FB9AE70.uasset",
+				"C:/Users/Admin/Desktop/3D Pickup/ThirdPersonSurvior/Content/Maps/_GENERATED/Admin/Box_440EF26D.uasset",
+				"C:/Users/Admin/Desktop/3D Pickup/ThirdPersonSurvior/Content/Maps/_GENERATED/Admin/Box_B2CBE00B.uasset",
+				"C:/Users/Admin/Desktop/3D Pickup/ThirdPersonSurvior/Content/Blueprints/BP_Trap.uasset",
+				"C:/Users/Admin/Desktop/3D Pickup/ThirdPersonSurvior/Content/Blueprints/BP_Health.uasset",
+				"C:/Users/Admin/Desktop/3D Pickup/ThirdPersonSurvior/Content/Blueprints/BP_HealthPickup.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ThirdPersonSurvior/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ThirdPersonSurvior/Content/GameMap.umap",
+				"C:/Users/user/Documents/Unreal Projects/ThirdPersonSurvior/Content/Maps/GameMap.umap",
+				"C:/Users/user/Documents/Unreal Projects/ThirdPersonSurvior/Content/Blueprints/BP_Pickup.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ThirdPersonSurvior/Content/ExampleContent/Blueprint_Communication/Meshes/SM_Battery_Medium.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ThirdPersonSurvior/Content/ThirdPerson/Input/Actions/IA_Collect.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ThirdPersonSurvior/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ThirdPersonSurvior/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ThirdPersonSurvior/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ThirdPersonSurvior/Content/ExampleContent/Effects/ParticleSystems/P_electricity_arc.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ThirdPersonSurvior/Content/Blueprints/WBP_BatteryHUD.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ThirdPersonSurvior/Content/Blueprints/BP_GameMode.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ThirdPersonSurvior/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple_Physics.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ThirdPersonSurvior/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ThirdPersonSurvior/Content/Blueprints/BP_GemPickup.uasset",
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/VREditor/BasicMeshes/MI_Ball_01.uasset",
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/VREditor/BasicMeshes/SM_Ball_01.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ThirdPersonSurvior/Content/Blueprints/BP_HealthPickup.uasset",
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/VREditor/BasicMeshes/M_Ball_02.uasset",
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/VREditor/BasicMeshes/SM_Ball_02.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ThirdPersonSurvior/Content/Blueprints/BP_TrapPickup.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ThirdPersonSurvior/Content/Blueprints/BP_Battery.uasset",
+				"C:/Users/user/Documents/Unreal Projects/ThirdPersonSurvior/Content/NewWorld.umap"
+			]
+		}
+	]
+}

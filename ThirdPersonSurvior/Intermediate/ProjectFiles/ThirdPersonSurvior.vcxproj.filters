@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ThirdPersonSurvior.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ThirdPersonSurvior.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ThirdPersonSurviorEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ThirdPersonSurvior">
+      <UniqueIdentifier>{2AB413DF-1C4C-3819-BE11-ADB2501A7E50}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ThirdPersonSurvior\ThirdPersonSurvior.Build.cs">
+      <Filter>Source\ThirdPersonSurvior</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ThirdPersonSurvior\ThirdPersonSurvior.cpp">
+      <Filter>Source\ThirdPersonSurvior</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThirdPersonSurvior\ThirdPersonSurvior.h">
+      <Filter>Source\ThirdPersonSurvior</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ThirdPersonSurvior\ThirdPersonSurviorCharacter.cpp">
+      <Filter>Source\ThirdPersonSurvior</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThirdPersonSurvior\ThirdPersonSurviorCharacter.h">
+      <Filter>Source\ThirdPersonSurvior</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ThirdPersonSurvior\ThirdPersonSurviorGameMode.cpp">
+      <Filter>Source\ThirdPersonSurvior</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThirdPersonSurvior\ThirdPersonSurviorGameMode.h">
+      <Filter>Source\ThirdPersonSurvior</Filter>
+    </ClInclude>
+    <Filter Include="Source\ThirdPersonSurvior\Private">
+      <UniqueIdentifier>{54EECAC4-FEE1-36B5-907D-08591173FD94}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ThirdPersonSurvior\Private\GemPickup.cpp">
+      <Filter>Source\ThirdPersonSurvior\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ThirdPersonSurvior\Private\HealthPickup.cpp">
+      <Filter>Source\ThirdPersonSurvior\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ThirdPersonSurvior\Private\Pickup.cpp">
+      <Filter>Source\ThirdPersonSurvior\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ThirdPersonSurvior\Private\TrapPickup.cpp">
+      <Filter>Source\ThirdPersonSurvior\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\ThirdPersonSurvior\Public">
+      <UniqueIdentifier>{69BB0928-92AC-3A5A-861F-F70B3141C732}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ThirdPersonSurvior\Public\GemPickup.h">
+      <Filter>Source\ThirdPersonSurvior\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ThirdPersonSurvior\Public\HealthPickup.h">
+      <Filter>Source\ThirdPersonSurvior\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ThirdPersonSurvior\Public\Pickup.h">
+      <Filter>Source\ThirdPersonSurvior\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ThirdPersonSurvior\Public\TrapPickup.h">
+      <Filter>Source\ThirdPersonSurvior\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

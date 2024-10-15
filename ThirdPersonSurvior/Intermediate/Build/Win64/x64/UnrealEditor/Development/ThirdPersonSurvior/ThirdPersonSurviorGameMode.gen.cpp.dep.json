@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\admin\\desktop\\3d pickup\\thirdpersonsurvior\\intermediate\\build\\win64\\unrealeditor\\inc\\thirdpersonsurvior\\uht\\thirdpersonsurviorgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\admin\\desktop\\3d pickup\\thirdpersonsurvior\\intermediate\\build\\win64\\x64\\thirdpersonsurvioreditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\admin\\desktop\\3d pickup\\thirdpersonsurvior\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\thirdpersonsurvior\\definitions.thirdpersonsurvior.h",
+            "c:\\users\\admin\\desktop\\3d pickup\\thirdpersonsurvior\\source\\thirdpersonsurvior\\thirdpersonsurviorgamemode.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\admin\\desktop\\3d pickup\\thirdpersonsurvior\\intermediate\\build\\win64\\unrealeditor\\inc\\thirdpersonsurvior\\uht\\thirdpersonsurviorgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\admin\\desktop\\3d pickup\\thirdpersonsurvior\\intermediate\\build\\win64\\unrealeditor\\inc\\thirdpersonsurvior\\uht\\thirdpersonsurvior.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\admin\\desktop\\3d pickup\\thirdpersonsurvior\\intermediate\\build\\win64\\x64\\thirdpersonsurvioreditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\admin\\desktop\\3d pickup\\thirdpersonsurvior\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\thirdpersonsurvior\\definitions.thirdpersonsurvior.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
